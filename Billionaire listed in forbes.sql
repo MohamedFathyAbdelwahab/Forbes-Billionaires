@@ -1,3 +1,11 @@
+------------------------------------------------
+
+--This dataset include records of billionaires around the world listed in forbes
+-- We need to know what factors affect their wealth.
+--Identify opportunities for developing countries to use which industry or source of wealth.
+--Finally, uncover insights for nations and policymaker to help making insightfull decisions.
+----------------------------------------------------------------------------------------------------------------
+
 /* 
  --Overviewing the data 
 
